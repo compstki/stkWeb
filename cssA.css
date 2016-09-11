@@ -45,6 +45,6 @@ img {
     height: auto;
 }
 
-.selectedPage {
+#selectedPage {
     color: red;
 }

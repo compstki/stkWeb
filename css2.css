@@ -8,8 +8,9 @@ body {
 
 header {
     background-color: skyblue;
-    color: dimgray;
+    margin: 0px 0px;
     padding: 10px;
+    color: dimgray;
 }
 
 article {
@@ -20,13 +21,13 @@ article {
 
 nav {
     background-color: silver;
-    padding: 0px 10px;
+    margin: 5px 0px;
+    padding: 10px;
 }
 
 nav ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px 10px;
+    /*margin: 0px;*/
+   /* padding: 0px 10px;*/
 } 
 
 nav li {

@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    color:darkslategrey;
+    margin: auto;
+    background-color: aliceblue;
+    max-width: 1000px;
+}
+
+header {
+    background-color: skyblue;
+    margin: 0px 0px;
+    padding: 10px;
+    color: dimgray;
+}
+
+article {
+    background-color: whitesmoke;
+    margin: 5px 0px;
+    padding: 10px;
+}
+
+nav {
+    background-color: silver;
+    margin: 5px 0px;
+    padding: 10px;
+}
+
+nav li {
+    display: inline;
+    padding: 0px 10px;
+}
+
+nav li a {
+    text-decoration: none;
+    color: slategray;
+    padding: 0px 10px;
+}
+
+nav li a:hover {
+    color: white;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.selectedPage {
+    color: red;
+}

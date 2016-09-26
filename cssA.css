@@ -48,3 +48,26 @@ img {
 #selectedPage {
     color: red;
 }
+
+#pcimage {
+    max-width: 100%; 
+    height:auto;
+    
+}
+
+#pcimage2 {
+    max-width: 100%; 
+    height:auto;
+    
+}
+
+#LinPalimage {
+    max-width: 100%; 
+    height:auto;
+    
+}
+
+rect:hover {
+    opacity: 0.25;
+    fill-opacity: 0.25;
+}
